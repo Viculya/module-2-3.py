@@ -4,6 +4,5 @@ while my_list[i] >= 0 and i < len(my_list):
     if my_list[i] > 0:
         print(my_list[i])
     i += 1
-    continue
     if i == len(my_list):
         break
